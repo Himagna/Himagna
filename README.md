@@ -1,4 +1,4 @@
-
+![](https://github.com/Himagna/Himagna/blob/main/Cat.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himagna-mukherjee-317aa5224/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/himagna) 
 
