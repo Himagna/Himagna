@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Himagna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Himagna
 <img src="Cat.gif" alt="cat" height="50" width="50"/>
+</h1>
 - 📫 How to reach me **himagnam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
